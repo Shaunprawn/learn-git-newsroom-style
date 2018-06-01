@@ -35,25 +35,45 @@ them to make sure they merge it with the latest copy of the paper.
 ## Required Contributions & Revisions
 * The local news story about the cat stuck in a tree has an error. The name was
 completely wrong. Change all instances of "Sam Cowell" to "Henry Berringer."
+Sabs
+
+
 * Write a local news column about the cat show going on at city center. It's
 called "Paws at the Pumpkin Patch." Remind people there's another one coming up
 in February called "My Furry Valentine."
+Sabs
+
 * Someone needs to write a short piece about the "soduku" craze sweeping the
 nation. Can someone please get on this and tell me what the heck this is?!
+Jay
+
 * Spider man is still on the lose harassing citizens. Someone find a picture
 of him and upload it to our spiderman folder so we have something on file the
 next time he causes us any trouble!! We don't need this picture to appear
 in this issue, we just need to have it on file for once.
+Shawn
+
 * Update the final score of the high school basketball game to 93-78. Moonauts
 beat the Crows.
+Bryan
+
 * Someone run down to the corner store and buy us a pack of smokes. Geez!
+REDUNDANT
+
 * The weather on the front page needs updating. Can someone fill that in already?
+Bryan
+
 * Anyone worth their salt should take the time to update the front page to
 tell people what's actually in this issue. Keep updating it as new stories come
 in so we stay on top of the ball for once.
+Bryan
+
 * Who put the board game story under sports? Move it to culture!
+Jay
+
 * Can someone sort the names of all the plants being unveiled at the greenhouse
 thing? Geez, I don't even know what any of those species are.
+Jay
 
 # Publishing
 
