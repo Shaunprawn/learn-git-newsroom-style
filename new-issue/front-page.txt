@@ -5,16 +5,19 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+cat stuck in tree
+cat show at city center
 
 ## Sports
-* headline
-* headline
+board game tournament
+highschool basketball
+ping pong championship
+upcoming track meet
 
 ## Culture
-* headline
-* headline
+battle of the bands
+open greenhouse gardening
+board game touranment  
 
 ## Weekly Weather
 Sunday:    REPLACE
