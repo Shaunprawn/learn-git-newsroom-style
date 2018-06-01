@@ -1,0 +1,1 @@
+There is a sudoku craze sweeping the nation. Sudoku is a common hobby of housewives and students. It is a logic based puzzle formed in a 9 by 9 grid, comprosing of all digits from 1 to 9.
